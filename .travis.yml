@@ -1,0 +1,3 @@
+dist: focal
+ language: generic
+ script: echo test
